@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneChoicePlayer.unity
+    guid: 3229ea2a4c54c7147abea6bab9d13060
+  - enabled: 1
+    path: Assets/Scenes/OpengamerScene.unity
+    guid: ed9f6a714bdbc004da759ae646585f74
+  - enabled: 1
+    path: Assets/Scenes/DriveScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/GachyScene.unity
+    guid: d9669ce7d9f61b8419dc69e36e803931
+  m_configObjects: {}
